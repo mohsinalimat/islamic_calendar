@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="gridviewtextsize1">22sp</dimen>
+    <dimen name="gridviewtextsize2">19sp</dimen>
+    <dimen name="navtextsize1">21sp</dimen>
+    <dimen name="navtextsize2">22sp</dimen>
+    <dimen name="islamicmonthtextsize2">22sp</dimen>
+    <dimen name="islamicmonthimageviewpadding">7dp</dimen>
+    <dimen name="navpadding">0dp</dimen>
+    <dimen name="navmargintop">12dp</dimen>
+
+    <dimen name="edittext_reminder">33sp</dimen>
+    <dimen name="edittext_reminder2">30sp</dimen>
+
+
+    <dimen name="titletextsize">28sp</dimen>
+    <dimen name="itemsize">24sp</dimen>
+    <dimen name="subitemsize">16sp</dimen>
+
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/item5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:fontFamily="@font/gothic"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:textSize="@dimen/itemsize"
+        />
+
+    <TextView
+        android:id="@+id/subitem5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        app:fontFamily="@font/gothic"
+        android:layout_marginBottom="5dp"
+        android:textSize="@dimen/subitemsize"
+        />
+
+    <TextView
+        android:id="@+id/subsubitem5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        app:fontFamily="@font/gothic"
+        android:layout_marginBottom="5dp"
+        android:textSize="@dimen/subitemsize"
+        />
+</LinearLayout>

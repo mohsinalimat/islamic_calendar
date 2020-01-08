@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/currentdate"
+            android:icon="@drawable/currentdate"
+            android:title="@string/menu_currentdte" />
+        <item
+            android:id="@+id/upcoming"
+            android:icon="@drawable/event"
+            android:title="@string/menu_upcomingevents" />
+        <item
+            android:id="@+id/exitapp"
+            android:icon="@drawable/exit"
+            android:title="@string/menu_exit" />
+    </group>
+
+
+    <item android:title="Communicate"
+         android:id="@+id/nav_sharegroup">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="@string/menu_share" />
+
+        </menu>
+    </item>
+
+</menu>
+
