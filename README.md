@@ -1,6 +1,5 @@
-<p align="center">
-    Islamic Hijri Calendar((https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
-</p>
+<div style="float: left;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="128" height="128"/></div> 
+# Quite a long title, potentially going over several lines
 
 # Islamic Hijri Calendar
 
