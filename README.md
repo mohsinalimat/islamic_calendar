@@ -20,5 +20,5 @@ This lightweight app uses an algorithmic approach to accurately calculate past, 
 
 
 <p align="center">
-  <img src="https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijrigiftutorial2.gif" alt="app tutorial">
+  <img src="https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijrigiftutorial3.gif" alt="app tutorial">
 </p>
