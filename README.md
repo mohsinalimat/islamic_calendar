@@ -1,8 +1,7 @@
 <img align="left" width="80" height="80" src="https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijriimg.png" alt="Logo">
 
-# Resume application project
-
 # Islamic Hijri Calendar
+
 
 ## Goal
 
