@@ -19,5 +19,7 @@ This lightweight app uses an algorithmic approach to accurately calculate past, 
 * Allow users to search for all islamic events taking place this year
 
 
-![App Tutorial](https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijrigiftutorial2.gif?style=centerme)
-
+![App Tutorial](https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijrigiftutorial2.gif)
+<p align="center">
+  <img src="https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijrigiftutorial2.gif">
+</p>
