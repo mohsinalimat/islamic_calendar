@@ -1,4 +1,4 @@
-# AppFoundry Android Project Template
+# Islamic Hijri Calendar
 
 ## Goal
 
