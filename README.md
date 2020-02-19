@@ -2,6 +2,7 @@
 
 # Islamic Hijri Calendar
 
+This lightweight app uses an algorithmic approach to accurately calculate past, present and future islamic dates. It searches for when significant islamic events will take place and what date it will be held in Gregorian and Hijri format. The app will notify users when their is an important event.
 
 ## Goal
 
