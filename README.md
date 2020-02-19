@@ -1,5 +1,6 @@
-<div style="float: left;"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="128" height="128"/></div> 
-# Quite a long title, potentially going over several lines
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/akarsh/akarsh-seggemu-resume/master/akarsh%20seggemu%20resume/Assets/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png" alt="Resume application project app icon">
+
+# Resume application project
 
 # Islamic Hijri Calendar
 
