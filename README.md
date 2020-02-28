@@ -18,7 +18,11 @@ This lightweight app uses an algorithmic approach to accurately calculate past, 
 
 * Allow users to search for all islamic events taking place this year
 
-
 <p align="center">
   <img src="https://github.com/ish2nv/islamic_calendar/blob/master/logoimg/hijrigiftutorial3.gif" alt="app tutorial">
 </p>
+
+## Installation
+
+
+Download in PlayStore: [Islamic Hijri Calendar](https://play.google.com/store/apps/details?id=com.aliindustries.islamiccalendar&hl=en_GB)
